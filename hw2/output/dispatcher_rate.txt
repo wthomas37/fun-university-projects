@@ -1,3 +1,0 @@
-The inputs were: n = 1, t = 1048576, d = 32, w = 1, v = 2, p = U, s = 1, output = output/dispatcher_rate.txt, and everything took 3706.275879 time 
-The inputs were: n = 2, t = 524288, d = 32, w = 1, v = 2, p = U, s = 1, output = output/dispatcher_rate.txt, and everything took 8145.155762 time 
-The inputs were: n = 4, t = 262144, d = 32, w = 1, v = 2, p = U, s = 1, output = output/dispatcher_rate.txt, and everything took 44879.839844 time 
