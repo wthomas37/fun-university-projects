@@ -1,0 +1,6 @@
+== Beginning of PA1 test report for wthomas37 ==
+
+
+cs223-wi23-pa-1-hello-wordle-wthomas37 failed:	make
+
+== End of PA1 test report ==

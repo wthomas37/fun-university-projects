@@ -1,0 +1,32 @@
+== Beginning of PA7 test report for wthomas37 ==
+
+== Style Report ==
+
+
+-- RawShuffle.hs --
+
+
+-- MonadicShuffle.hs --
+
+
+-- RandomWars.hs --
+
+
+== End of Style Report ==
+
+Resolving dependencies...
+Build profile: -w ghc-9.2.5 -O1
+In order, the following will be built (use -v for more details):
+ - random-wars-0.1.0.0 (exe:tests) (first run)
+Configuring executable 'tests' for random-wars-0.1.0.0..
+Preprocessing executable 'tests' for random-wars-0.1.0.0..
+Building executable 'tests' for random-wars-0.1.0.0..
+[1 of 5] Compiling Cards            ( Cards.hs, /var/tmp/grader/cs223-wi23-pa-7-random-wars-wthomas37/dist-newstyle/build/x86_64-linux/ghc-9.2.5/random-wars-0.1.0.0/x/tests/build/tests/tests-tmp/Cards.o )
+[2 of 5] Compiling RawShuffle       ( RawShuffle.hs, /var/tmp/grader/cs223-wi23-pa-7-random-wars-wthomas37/dist-newstyle/build/x86_64-linux/ghc-9.2.5/random-wars-0.1.0.0/x/tests/build/tests/tests-tmp/RawShuffle.o )
+[3 of 5] Compiling StateFunc        ( StateFunc.hs, /var/tmp/grader/cs223-wi23-pa-7-random-wars-wthomas37/dist-newstyle/build/x86_64-linux/ghc-9.2.5/random-wars-0.1.0.0/x/tests/build/tests/tests-tmp/StateFunc.o )
+[4 of 5] Compiling MonadicShuffle   ( MonadicShuffle.hs, /var/tmp/grader/cs223-wi23-pa-7-random-wars-wthomas37/dist-newstyle/build/x86_64-linux/ghc-9.2.5/random-wars-0.1.0.0/x/tests/build/tests/tests-tmp/MonadicShuffle.o )
+[5 of 5] Compiling Tester           ( Tester.hs, /var/tmp/grader/cs223-wi23-pa-7-random-wars-wthomas37/dist-newstyle/build/x86_64-linux/ghc-9.2.5/random-wars-0.1.0.0/x/tests/build/tests/tests-tmp/Tester.o )
+Linking /var/tmp/grader/cs223-wi23-pa-7-random-wars-wthomas37/dist-newstyle/build/x86_64-linux/ghc-9.2.5/random-wars-0.1.0.0/x/tests/build/tests/tests ...
+cs223-wi23-pa-7-random-wars-wthomas37 failed:	cabal run tests >> feedback.txt
+
+== End of PA7 test report ==
